@@ -65,3 +65,5 @@ if (!$mail->send()) {
 } else {
     echo 'Email sent successfully!';
 }
+
+?>
